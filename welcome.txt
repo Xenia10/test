@@ -1,2 +1,1 @@
 greeting
-how do you live?
